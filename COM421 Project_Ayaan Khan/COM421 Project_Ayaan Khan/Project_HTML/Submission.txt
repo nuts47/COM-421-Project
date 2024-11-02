@@ -1,0 +1,30 @@
+Self-Assessment:
+ 
+Design and Layout:
+The page is designed with a clear and consistent header and navigation menu.
+Visual design aligns with the educational purpose of the site, using a simple and academic aesthetic.
+The layout is responsive to screen size adjustments (if applicable).
+ 
+Functionality:
+All links in the navigation are functional and lead to the correct pages.
+The image loads correctly and has an appropriate alt text for context and accessibility.
+ 
+Accessibility:
+The site's language is set to English, which is appropriate for the intended audience.
+Navigation is structured in an ordered list, which is a good semantic choice for screen readers.
+Text alternatives are provided for non-text content, enabling the content to be changed into other forms people need, such as large print, braille, speech, symbols, or simpler language.
+ 
+Content Quality:
+The headings and paragraphs are informative and clearly explain the purpose of the site.
+The content is free from spelling and grammatical errors.
+Information is presented in a logical order that is easy to follow.
+ 
+ 
+Assessment completed by: Ayaan Khan
+Date: 11/02/2024
+ 
+short self-critique:
+In developing the "Research Paper Toolbox" HTML page, I aimed to create an educational resource that was both informative and user-friendly. My approach focused on a clean layout and intuitive navigation to ensure that users could easily find and access the various sections of the site.
+Reflecting on the project, I believe that with more time, I would make the color contrast a bit better and I would go deeper into accessibility features. This would include implementing a responsive design for better mobile accessibility and adding keyboard navigation to accommodate users with different needs.
+
+
